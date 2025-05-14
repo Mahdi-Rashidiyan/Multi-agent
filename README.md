@@ -72,10 +72,3 @@ python agent.py
 - langchain-ibm
 - os (built-in)
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here] 
